@@ -1,0 +1,160 @@
+
+
+.eating{
+  background-color: rgb(201, 73, 79);
+  padding: 5px;
+  font-size: 10px;
+  color: white;
+  border:none;
+  opacity: 0.5;
+  margin-right: 30px;
+}
+
+.eating:hover{
+  opacity: 0.1;
+}
+
+.menuLink{
+  background-color: rgb(61, 109, 186);
+  padding: 20px;
+  font-size: 40px;
+  color: white;
+  border:none;
+  opacity: 0.5;
+  margin-right: 20px;
+}
+
+.menuLink:hover{
+  opacity: 0.1;
+}
+
+.set{
+  background-color: rgb(230, 106, 69);
+  padding: 10px;
+  font-size: 20px;
+  color: yellow;
+  border:none;
+  opacity: 0.2;
+  transition:0.3s;
+  margin-right: 50px;
+}
+
+.set:hover{
+  opacity: 1;
+}
+
+.classic{
+  background-color: rgb(230, 106, 69);
+  padding: 10px;
+  font-size: 20px;
+  color: yellow;
+  border:none;
+  opacity: 0.2;
+  transition:0.3s;
+  margin-right: 50px;
+}
+
+.classic:hover{
+  opacity: 1;
+}
+
+.drink{
+  background-color: rgb(230, 106, 69);
+  padding: 10px;
+  font-size: 20px;
+  color: yellow;
+  border:none;
+  opacity: 0.2;
+  transition:0.3s;
+  margin-right: 50px;
+}
+
+.drink:hover{
+  opacity: 1;
+}
+
+.report{
+  background-color: rgb(230, 106, 69);
+  padding: 10px;
+  font-size: 20px;
+  color: yellow;
+  border:none;
+  opacity: 0.2;
+  transition:0.3s;
+  margin-right: 50px;
+}
+
+.report:hover{
+  opacity: 1;
+}
+
+
+.music{
+  background-color: rgb(61, 109, 186);
+  padding: 10px;
+  font-size: 10px;
+  color: white;
+  border:none;
+  opacity: 0.2;
+  transition: 0.3s;
+  margin-right: 20px;
+}
+
+.music:hover{
+  opacity: 1;
+}
+
+.spin{
+  background-color: rgb(199, 146, 60);
+  padding: 140px;
+  font-size: 110px;
+  color: yellow;
+  border:none;
+  opacity: 0.1;
+  transition:0.3s;
+  margin-right: 50px;
+}
+.spin:hover{
+  opacity: 1;
+}
+
+.instant{
+  background-color: rgb(215, 237, 187);
+  padding: 140px;
+  font-size: 140px;
+  color: yellow;
+  border:none;
+  opacity: 0.1;
+  transition:0.3s;
+  margin-right: 50px;
+}
+
+.instant:hover{
+  opacity: 1;
+}
+
+
+
+.companiesMenu{
+  background-color: rgb(61, 109, 186);
+  padding: 10px;
+  font-size: 10px;
+  color: white;
+  border:none;
+  opacity: 0.5;
+  margin-right: 20px;
+}
+
+.companiesMenu:hover{
+  opacity: 0.1;
+}
+
+.nuSlider{
+  -webkit-appearance: none;
+  appearance:none;
+  width: 200px;
+  height: 25px;
+  background-color: rgb(190, 0, 0);
+  opacity: 0.8;
+ /* border- */
+}
