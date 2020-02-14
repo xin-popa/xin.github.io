@@ -1,0 +1,48 @@
+{
+  "description":"Companies I've ineracted with",
+
+  "companies": [
+    {
+      "name": "Ramen",
+      "r": 250,
+      "g": 225,
+      "b": 165,
+      "frequency": 40
+    },
+    {
+      "name": "Chashu",
+      "r": 125,
+      "g": 96,
+      "b": 26,
+      "frequency": 120
+    },
+    {
+      "name": "Dried Seaweed",
+      "r": 176,
+      "g": 171,
+      "b": 150,
+      "frequency": 100
+    },
+    {
+      "name": "Soft Boiled Egg",
+      "r": 255,
+      "g": 118,
+      "b": 11,
+      "frequency": 500
+    },
+    {
+      "name": "Scalltion(Half serving)",
+      "r": 189,
+      "g": 255,
+      "b": 209,
+      "frequency": 150
+    },
+    {
+      "name": "Kikurage Mushroom(Half serving)",
+      "r": 70,
+      "g": 92,
+      "b": 76,
+      "frequency": 50
+    }
+  ]
+}
